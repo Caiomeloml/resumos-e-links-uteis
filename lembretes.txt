@@ -1,0 +1,3 @@
+Programa para abrir anotações: Typora 
+Programa para abrir anotações2: Notepad ++
+programa para rodar Apache/MySQL/FileZilla/Mercury/Tomcat: Xampp

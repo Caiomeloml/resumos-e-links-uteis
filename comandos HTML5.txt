@@ -1,0 +1,59 @@
+<!DOCTYPE HTML> informa ao leitor que usarei a linguagem de marcação HTML
+
+<head> estrutura superior
+</head> fim da estrutura superior
+
+<meta charset="utf-8">  é uma tag meta utilizada para comunicar aos navegadores qual é o formato de codificação de caracteres utilizado naquele documento.
+Em outras palavras, essa tag serve para que os navegadores saibam como devem renderizar os textos incluídos em uma página específica.
+
+<title> posso escrever o titulo (fica escrito na aba do navegador)
+</title> encerra o titulo
+
+<link rel="stylesheet"  href="style.css">  serve para linkar/adicionar mais estilo a pagina nesse exemplo usando a referencia CSS
+
+<body> começa a escrever o corpo do site (estrutura)
+</body> fim do corpo do site (estrutura)
+
+<header> cabeçalho dentro do <BODY> corpo do site
+</header> fim cabeçalho dentro do <BODY> corpo do site
+
+<center> e </center> centralizar uma imagem no meio do site
+
+<img> adicionar uma imagem
+<img src="nome da imagem caso esteja local ou HTTPS:// site da imagem>
+<img src="exemplo.jpge"  alt="nome que aparece se a imagem nao carregar"
+
+<h1> e </h1> Cabeçalho, titulo
+<h2> <h3> <h4>....  subtitulos, posts...
+
+<p> e </p> escrever textos
+
+<article><h2> DESTACA UMA FRASE</h2> 
+para depois entrar um texto <p> texto normal escrito e bla bla bla bla</p></article>
+
+todos juntos e alinhados
+
+<ul> </ul> criar lista que nao precisar ser ordenada
+<ol> </ol> criar lista em ordem 1. 2. 3. 4. 5.
+<li> </li> conteudo dentro dessa lista ex:
+
+<ol>
+    <li>primeiro item</li>
+    <li>segundo item</li>
+    <li>terceiro item</li>
+</ol>
+
+
+<a> em HTML (ou elemento âncora), com o atributo <href> cria-se um hiperligação 
+nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na URL. 
+O conteúdo dentro de cada <a> precisará indicar o destino do link. EX:
+
+<a href="mailto:caiomeloml@gmail.com"> Email </a>
+ 
+"target=_blank" é só incluir se eu quiser colocar para abrir em 
+uma nova pagina no navegador ex:
+
+ <a href="https://github.com/Caiomeloml"target="_blank">Perfil do Github</a>
+
+
+<footer> e </footer> rodapé do site, onde configuro os creditos

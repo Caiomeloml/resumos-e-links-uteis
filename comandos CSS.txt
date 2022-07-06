@@ -1,0 +1,20 @@
+CSS é uma linguagem de marcação e serve para estilizar(fonte,cor,espaçamento,cor do fundo,borda...) sites ou aplicativos.
+para usar eu preciso inserir no codigo principal(HTML ou outros) os comandos:
+
+<link rel="stylesheet"  href="style.css"> dentro do <Head>
+
+e fazer as marcações onde quero alterar o texto como por exemplo:
+
+<h1 id="title ou outro nome">Caio Melo</h1>
+id="nome"  o ID nao muda, unico tipo, o titulo do Site normalmente.
+normalmento o ID fica dentro do HEAD.
+
+Class="subititle ou outro nome" usado para alter
+
+
+
+
+
+
+
+

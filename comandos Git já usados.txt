@@ -1,0 +1,19 @@
+Dir - Ver diretorios
+Mkdir - Criar pastas em diretorio
+CD (nome da pasta) - entrar no diretorio
+CD .. - Pasta anterior do diretorio
+
+Git init - iniciar repositorio
+
+Git clone - clonar repositorio do Github no Git
+
+Git Status - ver status
+Git add muda o ciclo de Untrack/ not staged para Committed
+Git add (nome da pasta ou objeto)- atualiza no repositorio pasta ou objeto especifico
+Git Add . - atualizar todos os itens
+Git commit - cria um commit
+Git Commit -m "anotação" - cria um com anotações especificas sobre o commit
+
+git remote add origin https://github.com/Caiomeloml/NOME DO NOVO REPOSITORIO
+Git push origin main - envia todo repositorio atualizado para (main) local de origen do arquivo 
+no Github
