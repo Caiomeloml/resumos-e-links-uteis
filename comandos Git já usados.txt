@@ -14,7 +14,12 @@ Git Add . - atualizar todos os itens
 Git commit - cria um commit
 Git Commit -m "anotação" - cria um com anotações especificas sobre o commit
 
-
 git remote add origin https:// - Linka novo repositorio com nova pasta para salvar
 Git push origin main - envia todo repositorio atualizado para (main) local de origen do arquivo 
 no Github
+
+Alterou?? atualize no GITHUB Assim:
+git add .
+git commit "descreva"
+git origin main
+
