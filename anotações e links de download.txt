@@ -1,4 +1,10 @@
-Link com comandos de programção Git : https://comandosgit.github.io/
+Link com comandos Git : https://comandosgit.github.io/
+
+Link com comandos Flex box: https://origamid.com/projetos/flexbox-guia-completo/
+
+link para buscar codigos usados na criação sites e alguns templates: https://jquery.com/
+
+link com comandos e codigos(HTML/CSS/Java Script/Python/ : https://www.w3schools.com/
 
 Link para download do git: https://git-scm.com/downloads
 o Git é um terminal estendido
@@ -7,11 +13,8 @@ Link para donwload Note Pad ++ (pode escrever codigos) : https://notepad-plus-pl
 
 Link para downloads Xampp (leitor Apache, MySQL,FileZilla,Mercury e Tomcat): https://www.apachefriends.org/pt_br/download.html
 
-link para download do Visual estudio code (editor visual) : https://code.visualstudio.com/docs/?dv=win
+link para download do Visual estudio code(editor visual) : https://code.visualstudio.com/docs/?dv=win
 
-link para buscar codigos usados na criação sites e alguns templates: https://jquery.com/
-
-link para estudar codigos e liguagens de programação(HTML/CSS/Java Script/Python/ : https://www.w3schools.com/
 
 
 
