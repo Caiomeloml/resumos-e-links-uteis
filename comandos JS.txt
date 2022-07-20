@@ -1,0 +1,112 @@
+// Tipos de primitivos
+//Boleam 
+/*var vOuf = false;
+console.log (typeof(vOuf));
+
+//number
+var numeroQualquer = 1;
+console.log(typeof(numeroQualquer));
+
+//string
+var name = 'caio';
+console.log(typeof(caio));
+
+//function
+var funcao = function() {}
+console.log(typeof(funcao)); 
+*/
+//___________________________________________________________________
+//como declarar
+// Variavel e constate
+/*var variavel = 'caio';
+variavel = 'mudou';
+console.log(variavel);
+
+let variavel2 = 'caio';
+variavel2 = 'mudou';
+console.log(variavel2)
+
+const constante = 'caio';
+constate = 'mudou' // erro pois a constate nao pode ser alterado//
+console.log;
+
+var escopoGlobal = 'global';
+console.log(escopoGlobal);
+
+var escopoLocalInterno = 'local'; {
+console.log(escopoLocalInterno);
+}
+escopoLocalInterno();  //chama a funcao
+*/
+//_________________________________________________________________
+// Atribuição
+/*var atribuicao = 'Caio'; // palavra atribuicao=caio
+
+// Comparação ( verdadeiro ou falso ==)
+var comparacao = '0' == 0; // verdadeiro
+console.log(comparacao);
+var comparacao = '0' == 1;  //falso
+console.log(comparacao); 
+
+//comparacao identica ( Valor e Tipo são iguais ===)
+var comparacaoIdentica = '0' === 0;
+console.log(comparacaoIdentica); 
+*/
+//___________________________________________________________________
+/*
+//adicao +
+var adicao = 1 + 1;
+console.log(adicao);
+
+//subtracao -
+var subtracao = 1 - 1;
+console.log(subtracao);
+
+//multiplicao *
+var multiplicao = 2 * 2;
+console.log(multiplicao);
+
+//divisao Real /
+var divisaoReal = 4 / 2;
+console.log(divisaoReal);
+
+//divisao inteiro %
+var divisaoInteiro = 19 % 1;
+console.log(divisaoInteiro);
+
+//potenciação **
+var potenciacao = 2 ** 5;
+console.log(potenciacao);
+*/
+//___________________________________________________________________
+//Maior que
+/*var maiorQue = 5 > 2;
+console.log(maiorQue);
+
+//Menor que
+var menorQue = 5 < 2;
+console.log(menorQue);
+
+// maior ou igual a 
+var maiorOuIgual = 5 >= 2;
+console.log(maiorOuIgual);
+
+// menor ou igual a
+var menorOuIgual = 5 <= 2;
+console.log(menorOuIgual);
+*/
+//__________________________________________________________
+
+//Operadores Logicos 
+//&& considera que Todos precisam ser verdadeiros &&
+/*var e = true && false;
+console.log(e)
+
+// || considera qualquer valor verdadeiro ||
+var e = true || false;
+console.log(e)
+
+// ! Inverte valor ( V torna-se F ou F torna-se V)   !
+var nao = !true
+console.log(nao)
+*/

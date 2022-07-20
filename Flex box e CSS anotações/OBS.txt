@@ -1,3 +1,0 @@
-Biaxar Visual Code estudios
- 
-extenções : HTML Snippets e Live server Previewer
