@@ -1,3 +1,14 @@
 Programa para abrir anotações: Typora 
 Programa para abrir anotações2: Notepad ++
 programa para rodar Apache/MySQL/FileZilla/Mercury/Tomcat: Xampp
+
+Visual Code:
+extenções : 
+
+HTML Snippets 
+HTML Live server Previewer
+JS Code Runner
+CSS Formatter
+CSS Snippets
+Mysql
+

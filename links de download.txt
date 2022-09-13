@@ -15,6 +15,7 @@ Link para downloads Xampp (leitor Apache, MySQL,FileZilla,Mercury e Tomcat): htt
 
 link para download do Visual estudio code(editor visual) : https://code.visualstudio.com/docs/?dv=win
 
-
+link para download do Mysql em windows: https://dev.mysql.com/downloads/installer/
+ 
 
 

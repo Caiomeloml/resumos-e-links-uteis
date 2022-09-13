@@ -110,3 +110,92 @@ console.log(e)
 var nao = !true
 console.log(nao)
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+// o que são vetores ou arrays
+
+//como declarar um array
+/* let array = ['string', 1, true];
+console.log(array);
+*/
+
+// Pode Guardar Varios tipo de dados
+/*let array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+console.log([0]); //[numero do array 0,1,2.3]
+
+// array forEach (coloca um item dentro do array)
+/* array.forEach(function(item, index){console.log(item, index)}
+*/
+
+// array push (Adiciona item no final do array)
+/*let array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+array.push('novoItem');
+console.log(array);
+*/
+
+// Array Pop (remove item no final do array)
+/*let array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+array.pop();
+console.log(array);
+*/
+// Array shift (remove item no inicio do array)
+/*let array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+array.shift();
+console.log(array);
+*/
+
+// Array unshift (adiciona item no inicio do array)
+/*let array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+array.unshift('novoItem');
+console.log(array);
+*/
+
+// Array indexOf (retorna um indice de um valor)
+/*let array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+console.log(array.indexOf(true)); 
+*/
+
+// array splice() - remove ou substitui um item pelo indice
+/*array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']];
+array.splice(0, 3);
+console.log(array);
+*/
+
+//array slice() - retorna apenas array selecionados
+/*array = ['string', 1, true,['array1'],['array2'],['array3'],['array4']]
+let novoArray = array.slice(0,3);
+console.log(novoArray);
+*/
+
+// ________________ obejetos _____________________________________________________________________________
+//manipulando obejetos
+
+let object = {string: 'string', number: 1, Boolean: true, array: ['array'], objectInterno: { 
+    objectInterno : 'objeto interno'}};
+
+    //console.log(object) // dessa forma consigo abrir o item (obeject) e ver seu conteudo
+    //console.log(obejct.number); //  abrir item obeject. abrir number que está dentro do obeject
+ // console.log(object.array);  //  abrir item obeject. abrir array que está dentro do obeject
+
+    //  desestruturação pode ser feito dessa forma
+  /*  var string = object.string;
+    console.log(string);   
+
+    var arrayTeste= object.array;
+    console.log(arrayTeste);
+    */
+    // desestruturação pode ser dessa forma
+//var {escolho as propiedades que quero} = obeject;
+var { string, Boolean, objectInterno} = object;
+console.log(string, Boolean, objectInterno);
